@@ -8,7 +8,7 @@ at the rstudio::conf(2022), where I demonstrated the capabilities of the leafdow
 
 Data source: https://dev.meteostat.net/python/monthly.html
 
-Link to the app: https://hoga.shinyapps.io/leafdown_rstudio_conf_2022/.
+Link to the app: https://hoga.shinyapps.io/leafdown_rstudio_conf_2022/
 
 <br>
 <img src='www/app_screenshot.png'/>

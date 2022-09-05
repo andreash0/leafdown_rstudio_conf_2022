@@ -1,0 +1,13 @@
+name: leafdown_rstudio_conf_2022
+title: leafdown_rstudio_conf_2022
+username:
+account: hoga
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6917883
+bundleId: 6269073
+url: https://hoga.shinyapps.io/leafdown_rstudio_conf_2022/
+when: 1662360088.83734
+lastSyncTime: 1662360088.83734
+asMultiple: FALSE
+asStatic: FALSE
